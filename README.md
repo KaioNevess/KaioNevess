@@ -1,43 +1,69 @@
-# 👋 Olá, eu sou o Kaio!
+#  Kaio Neves
 
-🎓 Formado em Técnico em Informática  
-📚 Atualmente cursando Ciência da Computação  
+**`Estudante de Ciência da Computação  `**
 
-💡 Apaixonado por tecnologia e em constante evolução.
+Me chamo Kaio Leonardo Maciel Neves, tenho 18 anos e sou de Silveirânia-MG. Concluí o ensino médio no IFRP, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no mesmo Campus.
 
-## 💻 Sobre mim
-
-🚀 Atualmente estou estudando:
-- Python 🐍
-- C++ ⚙️
-- Java ☕
-- HTML & CSS 🌐
-
-📈 Buscando evoluir minhas habilidades e desenvolver projetos práticos.
-
-## 🛠️ Tecnologias
-
-![Python](https://img.shields.io/badge/Python- beginner-blue)
-![C++](https://img.shields.io/badge/C++- beginner-blue)
-![Java](https://img.shields.io/badge/Java- beginner-blue)
-![HTML](<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/2a3e20f5-1b28-4317-a02c-5ba47bffc4b2" />
-)
-![CSS](https://img.shields.io/badge/CSS- beginner-blue)
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
-## 📌 Projetos
-
-🔹 Sistema de recomendação de jogadores (IA)  
-🔹 Projetos com Arduino  
-🔹 Exercícios de programação  
-
-👉 Em constante evolução 🚀
 
 ---
+### Linguagens e Tecnologias que  estou aprendendo: 
 
-✨ "Sempre aprendendo, sempre evoluindo."
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+ />
+
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+ />
+           
+
+
+
+
+
+<br/>
+<br/>
+
