@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kaio!
 
-<!--
-**KaioNevess/KaioNevess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Formado em Técnico em Informática  
+📚 Atualmente cursando Ciência da Computação  
 
-Here are some ideas to get you started:
+💡 Apaixonado por tecnologia e em constante evolução.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Sobre mim
+
+🚀 Atualmente estou estudando:
+- Python 🐍
+- C++ ⚙️
+- Java ☕
+- HTML & CSS 🌐
+
+📈 Buscando evoluir minhas habilidades e desenvolver projetos práticos.
+
+## 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/Python- beginner-blue)
+![C++](https://img.shields.io/badge/C++- beginner-blue)
+![Java](https://img.shields.io/badge/Java- beginner-blue)
+![HTML](https://img.shields.io/badge/HTML- beginner-orange)
+![CSS](https://img.shields.io/badge/CSS- beginner-blue)
+
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+## 📌 Projetos
+
+🔹 Sistema de recomendação de jogadores (IA)  
+🔹 Projetos com Arduino  
+🔹 Exercícios de programação  
+
+👉 Em constante evolução 🚀
+
+---
+
+✨ "Sempre aprendendo, sempre evoluindo."
