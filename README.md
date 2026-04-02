@@ -2,8 +2,7 @@
 
 **`Estudante de Ciência da Computação  `**
 
-Me chamo Kaio Leonardo Maciel Neves, tenho 18 anos e sou de Silveirânia-MG. Concluí o ensino médio no IFRP, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no mesmo Campus.
-
+Me chamo Kaio Leonardo Maciel Neves, tenho 18 anos e sou natural de Silveirânia–MG. Concluí o ensino médio integrado ao curso técnico em Informática pelo IFRP, onde desenvolvi uma base sólida em tecnologia e programação. Atualmente, estou cursando Ciência da Computação no mesmo campus, buscando aprofundar meus conhecimentos na área e evoluir constantemente como desenvolvedor.
 
 ---
 ### Linguagens e Tecnologias que  estou aprendendo: 
