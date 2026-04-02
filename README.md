@@ -20,7 +20,8 @@
 ![Python](https://img.shields.io/badge/Python- beginner-blue)
 ![C++](https://img.shields.io/badge/C++- beginner-blue)
 ![Java](https://img.shields.io/badge/Java- beginner-blue)
-![HTML](https://img.shields.io/badge/HTML- beginner-orange)
+![HTML](<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/2a3e20f5-1b28-4317-a02c-5ba47bffc4b2" />
+)
 ![CSS](https://img.shields.io/badge/CSS- beginner-blue)
 
 ## 📊 Estatísticas
