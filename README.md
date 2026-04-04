@@ -57,13 +57,8 @@ Me chamo Kaio Leonardo Maciel Neves, tenho 18 anos e sou natural de Silveirânia
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
 />
-<br/><br/>
----
-### Linguagens mais usadas: 
 
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioNevess&layout=compact&theme=radical)
-</p>
+
 
 
 
