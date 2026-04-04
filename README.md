@@ -1,79 +1,53 @@
-#  Kaio Neves
+# 👨‍💻 Kaio Neves
 
-**`Estudante de Ciência da Computação  `**
+**Estudante de Ciência da Computação**
 
-Me chamo Kaio Leonardo Maciel Neves, tenho 18 anos e sou natural de Silveirânia–MG. Concluí o ensino médio integrado ao curso técnico em Informática pelo IFRP, onde desenvolvi uma base sólida em tecnologia e programação. Atualmente, estou cursando Ciência da Computação no mesmo campus, buscando aprofundar meus conhecimentos na área e evoluir constantemente como desenvolvedor.
+Me chamo Kaio Leonardo Maciel Neves, tenho 18 anos e sou natural de Silveirânia–MG.  
+Sou formado no ensino médio integrado ao curso técnico em Informática pelo IFRP, onde construí uma base sólida em tecnologia e programação.  
+
+Atualmente, curso Ciência da Computação e busco evoluir constantemente como desenvolvedor, explorando novas tecnologias e desenvolvendo projetos práticos.
 
 ---
-### Linguagens e Tecnologias que  estou aprendendo: 
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+## 🚀 Tecnologias em aprendizado
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
- />
+<p align="left">
+  <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="C++" title="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+</p>
 
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
-/>
-<br/><br/>
 ---
-### Estatísticas: 
 
+## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KaioNevess&show_icons=true&theme=github_dark)
+<p align="center">
+  <img height="130em" src="https://github-readme-stats-fast.vercel.app/api?username=KaioNevess&show_icons=true&theme=github_dark"/>
+  <img height="130em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KaioNevess&layout=compact&theme=github_dark"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=KaioNevess&theme=github_dark)
+<p align="center">
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=KaioNevess&theme=github_dark"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KaioNevess&layout=compact&theme=github_dark)
+---
 
+## 📌 Objetivo
 
+🎯 Me tornar um desenvolvedor cada vez mais completo, adquirindo experiência prática e contribuindo em projetos reais.
 
+---
 
+## ✨ Sobre meu GitHub
 
+📂 Aqui você encontrará:
+- Projetos acadêmicos  
+- Estudos de programação  
+- Experimentos com novas tecnologias  
 
+---
 
-<br/>
-<br/>
-
+_"Sempre aprendendo, sempre evoluindo."_
