@@ -57,7 +57,16 @@ Me chamo Kaio Leonardo Maciel Neves, tenho 18 anos e sou natural de Silveirânia
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  
 />
+<br/><br/>
+---
+### Estatísticas: 
 
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=KaioNevess&show_icons=true&theme=github_dark)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=KaioNevess&theme=github_dark)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KaioNevess&layout=compact&theme=github_dark)
 
 
 
