@@ -25,14 +25,13 @@ Atualmente, curso Ciência da Computação e busco evoluir constantemente como d
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="130em" src="https://github-readme-stats-fast.vercel.app/api?username=KaioNevess&show_icons=true&theme=github_dark"/>
-  <img height="130em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KaioNevess&layout=compact&theme=github_dark"/>
+  <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=KaioNevess&show_icons=true&theme=github_dark"/>
+  <img height="190em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KaioNevess&layout=compact&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=KaioNevess&theme=github_dark"/>
+  <img height="220em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=KaioNevess&theme=github_dark"/>
 </p>
-
 ---
 
 ## 📌 Objetivo
