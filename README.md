@@ -25,8 +25,8 @@ Atualmente, curso Ciência da Computação e busco evoluir constantemente como d
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="190em" src="https://github-readme-stats-fast.vercel.app/api?username=KaioNevess&show_icons=true&theme=github_dark"/>
-  <img height="190em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KaioNevess&layout=compact&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api?username=KaioNevess&show_icons=true&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KaioNevess&layout=compact&theme=github_dark"/>
 </p>
 
 <p align="center">
